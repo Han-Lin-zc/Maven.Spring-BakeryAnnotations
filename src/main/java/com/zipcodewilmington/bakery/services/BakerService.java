@@ -11,7 +11,6 @@ public class BakerService {
 
     private BakerRepository repository;
 
-
     public BakerService(BakerRepository repository) {
         this.repository = repository;
     }
